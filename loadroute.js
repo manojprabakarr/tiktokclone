@@ -28,7 +28,7 @@ const datamodel = require("./datamodel")
          
      }
  })
-
+//use postman to load data in db 
 
  router.get('/',async(req,res)=> {
     try {
